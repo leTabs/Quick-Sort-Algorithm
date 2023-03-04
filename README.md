@@ -1,4 +1,4 @@
-# Quick-Sort-Algorithm
+# Quick-sorting-Algorithm
 
 This sorting algorithm divides the array into halfs as many times neccessary and sorts 'em.
 Then, concats the parts of the array.
